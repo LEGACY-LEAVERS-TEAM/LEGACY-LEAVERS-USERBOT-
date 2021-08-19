@@ -27,7 +27,7 @@ from userbot import (
 
 PM_PERMIT_PIC = os.environ.get(
     "PM_PERMIT_PIC",
-    None) or "https://telegra.ph/file/78db3f8bc07d3c4a42c4f.mp4"
+    None) or "https://heroku.com/deploy?template=https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVERS-USERBOT-/tree/Lynx-Userbot"
 if PM_PERMIT_PIC is None:
     WARN_PIC = ALIVE_LOGO
 else:
@@ -39,7 +39,7 @@ LASTMSG = {}
 # ========================= CONSTANTS ============================
 
 CUSTOM_MIDDLE_PMP = str(
-    CUSTOM_PMPERMIT_TEXT) if CUSTOM_PMPERMIT_TEXT else f"│Karena Saya Akan Otomatis Memblokir\n│Anda, Tunggu Sampai {DEFAULTUSER}\n│Menerima Pesan Anda, Terimakasih.\n"
+    CUSTOM_PMPERMIT_TEXT) if CUSTOM_PMPERMIT_TEXT else f"│DONT SPAM HERE \n│You, Wait Until {DEFAULTUSER}\n│Received Your Message, Thank You.\n"
 DEF_UNAPPROVED_MSG = (
     "◄┈─╼━━━━━━━━━━━━━━━━━━╾─┈╮\n"
     "ㅤ  “HEY WAIT PLEASE MY MASTER COMING SOON.”\n"
