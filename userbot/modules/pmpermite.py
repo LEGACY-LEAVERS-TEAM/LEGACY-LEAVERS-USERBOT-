@@ -27,7 +27,7 @@ from userbot import (
 
 PM_PERMIT_PIC = os.environ.get(
     "PM_PERMIT_PIC",
-    None) or "https://heroku.com/deploy?template=https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVERS-USERBOT-/tree/Lynx-Userbot"
+    None) or "https://telegra.ph/file/98f2569626f624578687c.jpg"
 if PM_PERMIT_PIC is None:
     WARN_PIC = ALIVE_LOGO
 else:
