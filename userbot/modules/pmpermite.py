@@ -39,7 +39,7 @@ LASTMSG = {}
 # ========================= CONSTANTS ============================
 
 CUSTOM_MIDDLE_PMP = str(
-    CUSTOM_PMPERMIT_TEXT) if CUSTOM_PMPERMIT_TEXT else f"│Karena Saya Akan Otomatis Memblokir\n│Anda, Tunggu Sampai {DEFAULTUSER}\n│Menerima Pesan Anda, Terimakasih.\n"
+    CUSTOM_PMPERMIT_TEXT) if CUSTOM_PMPERMIT_TEXT else f"│Because I Will Automatically Block You\n│Wait Until {DEFAULTUSER}\n│Receive Your Message, Thank You.\n"
 DEF_UNAPPROVED_MSG = (
     "◄┈─╼━━━━━━━━━━━━━━━━━━╾─┈╮\n"
     "ㅤ  “HEY WAIT PLEASE MY MASTER COMING SOON.”\n"
